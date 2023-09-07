@@ -1,1 +1,1 @@
-0x00. C - Hello, World
+This project is for the basics of C programming
