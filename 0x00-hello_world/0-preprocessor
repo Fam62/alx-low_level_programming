@@ -1,2 +1,2 @@
 #!/bin/bash
-$CFILE=new.c c=10
+gcc -E $CFILE -o c
